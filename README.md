@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KristinFaye
 - 👀 I’m interested in wellness, social sciences, the beauty industry and lots of coffee. 
 - 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on upcoming lab projects. 
--
+- 💞️ I’m looking to collaborate on upcoming projects. 
+
 
 <!---
 KristinFaye/KristinFaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
